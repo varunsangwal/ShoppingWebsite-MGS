@@ -17,7 +17,6 @@ png…]()
 
 ![Screenshot (126)](https://github.com/varunsangwal/ShoppingWebsite-MGS/assets/61310149/fa1f0b30-3364-415f-af63-c816c19fb78d)
 
-![Screenshot (127)](https://github.com/varunsangwal/ShoppingWebsite-MGS/assets/61310149/828e9a82-b1bb-43f9-946e-79161d3bd56e)
 
 
 
